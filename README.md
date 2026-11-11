@@ -1,6 +1,6 @@
 # Chat PDF Studio — Android local-processing project
 
-This project embeds the original `index.html` interface in a WebView and runs the adapted `Build.py` pipeline locally on the phone through Chaquopy. It does not call GCP during processing. `server.py` is retained as a reference and is not used in local Android mode.
+This project embeds the original `index.html` interface in a WebView and runs the adapted `Build.py` pipeline locally on the phone through Chaquopy. `server.py` is retained as a reference and is not used in local Android mode.
 
 ## Project layout
 
